@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  24 of 12335 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    14 functions were new in current compilation
+    119 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  super-resolution.vcxproj -> C:\Users\bilge\Desktop\super-resolution\x64\Release\super-resolution.exe
